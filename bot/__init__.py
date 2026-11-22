@@ -1,1 +1,0 @@
-"""Modular Discord community bot."""
